@@ -49,3 +49,5 @@ body.ember-application {
   left: auto;
 }
 ```
+
+![admin](https://user-images.githubusercontent.com/626005/42133363-0f537862-7d29-11e8-8334-3543b2cbf810.png)
